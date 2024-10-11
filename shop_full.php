@@ -76,10 +76,7 @@
                                             <div class="product-ordering">
                                                 <select class="product-ordering__select nice-select">
                                                     <option value="0">Categoria</option>
-                                                    <option value="1">Mesas & Cadeiras</option>
-                                                    <option value="2">Sofás</option>
-                                                    <option value="4">Guarda Sol</option>
-                                                    <option value="5">Artigos De Decoração</option>
+                                                    <option value="1">Área Externa</option>
                                                 </select>
                                             </div>
                                         </div>
