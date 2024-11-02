@@ -185,7 +185,7 @@ a, button {
   cursor: pointer; }
 
 a:hover {
-  color: #ff0000;
+  color: #212121;
   text-decoration: none; }
 
 input[type=number]::-webkit-inner-spin-button,
@@ -3270,9 +3270,9 @@ a, button, .item-overlay, .global-overlay, .pagination li .page-number, .scroll-
       .tab-style-1 .nav-link:not(:last-child) {
         margin-right: 15px; } }
   .tab-style-1 .nav-link:after {
-    bottom: 8px;
-    height: 8px;
-    background-color: #ffb9b9; }
+    bottom: 3px;
+    height: 3px;
+    background-color: #322B25; }
 
 .tab-style-1 .nav-text {
   z-index: 2; }
